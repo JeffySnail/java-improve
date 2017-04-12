@@ -2,58 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db278b60-5ab3-468e-abe0-ab4ca2a36402" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/Bottle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/Burger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/ChickenBurger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/Coke.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/ColdDrink.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/DemoMain2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/Item.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/Meal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/MealBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/Packing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/Pepsi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/VegBurger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/builder/Wrapper.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/abstractfactory/AbstractFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/abstractfactory/DemoMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/abstractfactory/FactoryProducer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/abstractfactory/Tyre.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/abstractfactory/TyreA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/abstractfactory/TyreB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/abstractfactory/TyreFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/abstractfactory/Wheel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/abstractfactory/WheelA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/abstractfactory/WheelFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/factory/DemoMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/factory/EmailSender.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/factory/Factory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/factory/Sender.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/factory/SmsSender.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/singleton/DemoMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/target/classes/com/viashare/singleton/SingleObject.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/abstractfactory/AbstractFactory.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/abstractfactory/AbstractFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/abstractfactory/DemoMain.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/abstractfactory/DemoMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/abstractfactory/FactoryProducer.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/abstractfactory/FactoryProducer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/abstractfactory/Tyre.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/abstractfactory/Tyre.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/abstractfactory/TyreA.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/abstractfactory/TyreA.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/abstractfactory/TyreB.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/abstractfactory/TyreB.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/abstractfactory/TyreFactory.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/abstractfactory/TyreFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/abstractfactory/Wheel.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/abstractfactory/Wheel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/abstractfactory/WheelA.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/abstractfactory/WheelA.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/abstractfactory/WheelFactory.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/abstractfactory/WheelFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/factory/DemoMain.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/factory/DemoMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/factory/EmailSender.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/factory/EmailSender.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/factory/Factory.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/factory/Factory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/factory/Sender.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/factory/Sender.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/factory/SmsSender.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/factory/SmsSender.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/singleton/DemoMain.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/singleton/DemoMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/singleton/InnerClassSingleton.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/singleton/InnerClassSingleton.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/singleton/SingleObject.java" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/singleton/SingleObject.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/pom.xml" afterPath="$PROJECT_DIR$/design-patterns/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/Adapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/DataPersitentService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/DemoMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/RedisPersitent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/Alipay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/DemoMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/MD5Encrypt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/PayEncrypt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/PayService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/RSAEncrypt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/WechatPay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/prototype/DemoMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/prototype/Worker.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -76,11 +37,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/design-patterns/pom.xml">
+      <file leaf-file-name="PayService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/PayService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="133">
+              <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayEncrypt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/PayEncrypt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RSAEncrypt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/RSAEncrypt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MD5Encrypt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/MD5Encrypt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Alipay.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/Alipay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoMain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/DemoMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="57" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WechatPay.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/WechatPay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -107,18 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/Signal.java" />
-        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/Signaling.java" />
-        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/Signaling.java" />
-        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MyWaitNotify.java" />
-        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MySignal.java" />
-        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/starvation/Lock.java" />
-        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/starvation/Starvation.java" />
-        <option value="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/Sender.java" />
-        <option value="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/SmsSender.java" />
-        <option value="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/EmailSender.java" />
-        <option value="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/Factory.java" />
         <option value="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/DemoMain.java" />
         <option value="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/factory/SmsSender.java" />
         <option value="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/abstractfactory/Tyre.java" />
@@ -151,6 +163,25 @@
         <option value="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/builder/Person.java" />
         <option value="$PROJECT_DIR$/design-patterns/factory-method-pattern/src/main/java/com/viashare/builder/DemoMain2.java" />
         <option value="$PROJECT_DIR$/design-patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/prototype/Rectangle.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/prototype/Shape.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/prototype/Person.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/prototype/DemoMain.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/prototype/Worker.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/DataPersit.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/DataPersitentService.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/DataPersitent.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/Adapter.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/DemoMain.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/MysqlPersitent.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/RedisPersitent.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/PayEncrypt.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/RSAEncrypt.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/PayService.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/WechatPay.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/DemoMain.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/MD5Encrypt.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/Alipay.java" />
       </list>
     </option>
   </component>
@@ -214,6 +245,110 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="viashare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="viashare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bridge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -236,67 +371,7 @@
       <recent name="$PROJECT_DIR$/design-patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoMain (3)">
-    <configuration default="false" name="Starvation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.viashare.starvation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.viashare.starvation.Starvation" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-concurrency" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.viashare.factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.viashare.factory.DemoMain" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="factory-method-pattern" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DemoMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.viashare.abstractfactory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.viashare.abstractfactory.DemoMain" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="factory-method-pattern" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.DemoMain">
     <configuration default="false" name="DemoMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -334,6 +409,66 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="factory-method-pattern" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DemoMain (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.viashare.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.viashare.prototype.DemoMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="design-patterns" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DemoMain (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.viashare.adappter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.viashare.adappter.DemoMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="design-patterns" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.viashare.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.viashare.bridge.DemoMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="design-patterns" />
       <envs />
       <method />
     </configuration>
@@ -718,19 +853,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Starvation" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DemoMain" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DemoMain (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DemoMain (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DemoMain (3)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DemoMain (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DemoMain (3)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DemoMain (4)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DemoMain (5)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DemoMain" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DemoMain (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DemoMain (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DemoMain (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DemoMain" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Starvation" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DemoMain" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DemoMain (5)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DemoMain (4)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DemoMain (3)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DemoMain (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -746,16 +881,16 @@
       <updated>1491727149726</updated>
       <workItem from="1491727151077" duration="292000" />
       <workItem from="1491727445717" duration="10331000" />
-      <workItem from="1491895181316" duration="10601000" />
+      <workItem from="1491895181316" duration="19443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21224000" />
+    <option name="totallyTimeSpent" value="30066000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="840" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1440" height="840" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -767,9 +902,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19652407" sideWeight="0.4899857" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19652407" sideWeight="0.4899857" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25492227" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2540107" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -787,6 +922,37 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275401" sideWeight="0.49361023" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19652407" sideWeight="0.4899857" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2540107" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -803,114 +969,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/factory/Sender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/factory/SmsSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          <folding>
-            <element signature="e#137#138#0" expanded="false" />
-            <element signature="e#190#191#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/factory/EmailSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="42" />
-          <folding>
-            <element signature="e#139#140#0" expanded="false" />
-            <element signature="e#196#197#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/Signaling.java" />
-    <entry file="file://$PROJECT_DIR$/java-concurrency/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/Signaling.java" />
-    <entry file="file://$PROJECT_DIR$/java-concurrency/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/starvation/Starvation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MySignal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9139">
-          <caret line="508" column="45" lean-forward="false" selection-start-line="508" selection-start-column="45" selection-end-line="508" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/starvation/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MyWaitNotify.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/factory-method-pattern/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/factory/DemoMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1258,10 +1316,142 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/prototype/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/prototype/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/prototype/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/design-patterns/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="228">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/DataPersitentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/MysqlPersitent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/RedisPersitent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/adappter/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/PayEncrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/WechatPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/PayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/RSAEncrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/MD5Encrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/Alipay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/bridge/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="57" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="57" />
           <folding />
         </state>
       </provider>
