@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns/design-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/factory-method-pattern/factory-method-pattern.iml" filepath="$PROJECT_DIR$/design-patterns/factory-method-pattern/factory-method-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency/java-concurrency.iml" filepath="$PROJECT_DIR$/java-concurrency/java-concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-improve.iml" filepath="$PROJECT_DIR$/java-improve.iml" />
     </modules>

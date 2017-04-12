@@ -1,4 +1,4 @@
-package com.viashare;
+package com.viashare.factory;
 
 /**
  * Created by Jeffy on 17/4/11.
