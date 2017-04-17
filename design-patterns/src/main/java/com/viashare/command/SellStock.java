@@ -3,5 +3,15 @@ package com.viashare.command;
 /**
  * Created by Jeffy on 17/4/13.
  */
-public class Sell {
+public class SellStock implements Order{
+
+    private Stock abcStock;
+
+    public SellStock(Stock abcStock) {
+        this.abcStock = abcStock;
+    }
+
+    public void execute() {
+        abcStock.sell();
+    }
 }
