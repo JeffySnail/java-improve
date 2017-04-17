@@ -1,0 +1,14 @@
+/target
+/releases
+/distribution
+/.settings
+.project
+.classpath
+*.class
+*.tmp
+/tomcat.10025
+
+# Package Files #
+*.jar
+*.war
+*.ear
