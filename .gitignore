@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /target
 /releases
 /distribution
@@ -7,25 +7,10 @@
 .classpath
 *.class
 *.tmp
-/tomcat.10025
+
 
 # Package Files #
 *.jar
 *.war
 *.ear
-=======
-/target
-/releases
-/distribution
-/.settings
-.project
-.classpath
-*.class
-*.tmp
-/tomcat.10025
 
-# Package Files #
-*.jar
-*.war
-*.ear
->>>>>>> 6047e83ee090a94fdb40f6b2aed04df67907d0e2

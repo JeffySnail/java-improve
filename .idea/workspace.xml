@@ -2,124 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db278b60-5ab3-468e-abe0-ab4ca2a36402" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/CEOWorker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/PMWorker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/TLWorker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/Worker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/Broker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/BuyStock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/Order.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/SellStock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/Stock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/composite/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/composite/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/decorator/CarService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/decorator/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/decorator/GreenCar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/decorator/GreenCarDecorator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/facade/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/facade/Facade.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/facade/MakeupGirl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/facade/Teacher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/facade/Worker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/filter/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/filter/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/iterator/Container.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/iterator/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/iterator/FruitList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/iterator/Iterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/memento/CareTaker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/memento/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/memento/Memento.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/memento/Originator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/observer/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/observer/Observer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/observer/Tomcat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/proxy/BJVisit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/proxy/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/proxy/ProxyVPN.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/proxy/VisitWeb.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/state/Context.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/state/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/state/StartState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/state/State.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/state/StopState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/strategy/Context.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/strategy/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/strategy/MD5Sign.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/strategy/RSA2Sign.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/strategy/RSASign.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/strategy/Sign.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/template/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/template/Schedule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/template/TomSchedule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/Home.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/KiteVisitor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/TomHome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/Visitor.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java-concurrency/target/classes/com/viashare/signaling/MySignal$Listener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java-concurrency/target/classes/com/viashare/signaling/MySignal$Notifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java-concurrency/target/classes/com/viashare/signaling/MySignal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java-concurrency/target/classes/com/viashare/signaling/MyWaitNotify$Consumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java-concurrency/target/classes/com/viashare/signaling/MyWaitNotify$Producer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java-concurrency/target/classes/com/viashare/signaling/MyWaitNotify$Signal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java-concurrency/target/classes/com/viashare/signaling/MyWaitNotify.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java-concurrency/target/classes/com/viashare/starvation/Lock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java-concurrency/target/classes/com/viashare/starvation/Starvation.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/AbstractFactory.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/AbstractFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/DemoMain.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/DemoMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/FactoryProducer.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/FactoryProducer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/Tyre.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/Tyre.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/TyreA.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/TyreA.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/TyreB.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/TyreB.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/TyreFactory.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/TyreFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/Wheel.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/Wheel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/WheelA.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/WheelA.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/WheelFactory.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/abstractfactory/WheelFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/adappter/Adapter.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/adappter/Adapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/adappter/DataPersitentService.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/adappter/DataPersitentService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/adappter/DemoMain.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/adappter/DemoMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/adappter/MysqlPersitent.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/adappter/MysqlPersitent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/adappter/RedisPersitent.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/adappter/RedisPersitent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/Alipay.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/Alipay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/DemoMain.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/DemoMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/MD5Encrypt.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/MD5Encrypt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/PayEncrypt.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/PayEncrypt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/PayService.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/PayService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/RSAEncrypt.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/RSAEncrypt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/WechatPay.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/bridge/WechatPay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Bottle.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Bottle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Burger.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Burger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/ChickenBurger.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/ChickenBurger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Coke.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Coke.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/ColdDrink.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/ColdDrink.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/DemoMain.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/DemoMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/DemoMain2.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/DemoMain2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Item.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Item.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Meal.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Meal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/MealBuilder.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/MealBuilder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Packing.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Packing.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Pepsi.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Pepsi.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Person$Builder.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Person$Builder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Person.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/VegBurger.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/VegBurger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Wrapper.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/builder/Wrapper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/factory/DemoMain.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/factory/DemoMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/factory/EmailSender.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/factory/EmailSender.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/factory/Factory.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/factory/Factory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/factory/Sender.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/factory/Sender.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/factory/SmsSender.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/factory/SmsSender.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/prototype/DemoMain.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/prototype/DemoMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/prototype/Worker.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/prototype/Worker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/singleton/DemoMain.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/singleton/DemoMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/singleton/InnerClassSingleton$1.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/singleton/InnerClassSingleton$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/singleton/InnerClassSingleton$InnerClass.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/singleton/InnerClassSingleton$InnerClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/singleton/InnerClassSingleton.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/singleton/InnerClassSingleton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/singleton/SingleObject.class" afterPath="$PROJECT_DIR$/design-patterns/target/classes/com/viashare/singleton/SingleObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/executor/AbstractExecutorMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/executor/ExecutorServiceMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/executor/SchduledExecutorMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/lock/Counter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/lock/Lock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/lock/LockMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/racecondition/DemoMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MonitorObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MyWaitNotifyMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/SignalMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/threadlocal/ThreadLocalMain.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MySignal.java" afterPath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MySignal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MyWaitNotify.java" afterPath="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MyWaitNotify.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -142,67 +38,112 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Home.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/Home.java">
+      <file leaf-file-name="MySignal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MySignal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TomHome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/TomHome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="247">
+              <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding>
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Visitor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/Visitor.java">
+      <file leaf-file-name="SignalMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/SignalMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="46" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonitorObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MonitorObject.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+              <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KiteVisitor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/KiteVisitor.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="209">
+              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DemoMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/DemoMain.java">
+      <file leaf-file-name="LockMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/lock/LockMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="351">
+              <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+              <folding>
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/lock/Lock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="Counter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/lock/Counter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="152">
+              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="21" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyWaitNotify.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MyWaitNotify.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyWaitNotifyMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MyWaitNotifyMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SchduledExecutorMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/executor/SchduledExecutorMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1054#1055#0" expanded="false" />
+                <element signature="e#1111#1112#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -217,6 +158,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>threadFactory</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -228,26 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/facade/Facade.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/facade/DemoMain.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/facade/Worker.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/proxy/VistitWeb.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/proxy/VisitWeb.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/proxy/BJVisit.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/proxy/ProxyVPN.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/proxy/DemoMain.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/PMWorker.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/CEOWorker.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/Worker.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/DemoMain.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/TLWorker.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/Broker.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/Order.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/SellStock.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/BuyStock.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/Stock.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/DemoMain.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/iterator/Iterator.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/iterator/Container.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/iterator/FruitList.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/iterator/DemoMain.java" />
@@ -279,6 +205,26 @@
         <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/KiteVisitor.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/DemoMain.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/excuter/SerialExecutor.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/excuter/ExecutorMain.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/excuter/CyclicBarrier.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/excuter/BarrierTest.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/excuter/Main.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/racecondition/Counter.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/racecondition/DemoMain.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/executor/Main.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/executor/ExecutorServiceMain.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/executor/SchduledExecutorMain.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/executor/AbstractExecutorMain.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/threadlocal/ThreadLocalMain.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MySignal.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/SignalMain.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MyWaitNotify.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MyWaitNotifyMain.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/Main.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/lock/LockMain.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/lock/Lock.java" />
+        <option value="$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/lock/Counter.java" />
       </list>
     </option>
   </component>
@@ -345,7 +291,6 @@
     <panes>
       <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -356,6 +301,76 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="External Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="math" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -392,21 +407,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="design-patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-improve" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-improve" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-patterns" />
+              <option name="myItemId" value="java-concurrency" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -424,7 +425,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="design-patterns" />
+              <option name="myItemId" value="java-concurrency" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -446,7 +447,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="design-patterns" />
+              <option name="myItemId" value="java-concurrency" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -466,8 +467,77 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-concurrency" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="viashare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="signaling" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-improve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-concurrency" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="viashare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -486,15 +556,15 @@
       <recent name="$PROJECT_DIR$/design-patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoMain (4)">
-    <configuration default="false" name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.LockMain">
+    <configuration default="false" name="ThreadLocalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.viashare.strategy.*" />
+          <option name="PATTERN" value="com.viashare.threadlocal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.viashare.strategy.DemoMain" />
+      <option name="MAIN_CLASS_NAME" value="com.viashare.threadlocal.ThreadLocalMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -503,18 +573,18 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="design-patterns" />
+      <module name="java-concurrency" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="DemoMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SignalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.viashare.template.*" />
+          <option name="PATTERN" value="com.viashare.signaling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.viashare.template.DemoMain" />
+      <option name="MAIN_CLASS_NAME" value="com.viashare.signaling.SignalMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -523,18 +593,18 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="design-patterns" />
+      <module name="java-concurrency" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="DemoMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.viashare.abstractfactory.*" />
+          <option name="PATTERN" value="com.viashare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.viashare.abstractfactory.DemoMain" />
+      <option name="MAIN_CLASS_NAME" value="com.viashare.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -543,18 +613,18 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="design-patterns" />
+      <module name="java-concurrency" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="DemoMain (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MyWaitNotifyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.viashare.facade.*" />
+          <option name="PATTERN" value="com.viashare.signaling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.viashare.facade.DemoMain" />
+      <option name="MAIN_CLASS_NAME" value="com.viashare.signaling.MyWaitNotifyMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -563,18 +633,18 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="design-patterns" />
+      <module name="java-concurrency" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="DemoMain (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="LockMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.viashare.visitor.*" />
+          <option name="PATTERN" value="com.viashare.lock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.viashare.visitor.DemoMain" />
+      <option name="MAIN_CLASS_NAME" value="com.viashare.lock.LockMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -583,7 +653,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="design-patterns" />
+      <module name="java-concurrency" />
       <envs />
       <method />
     </configuration>
@@ -990,19 +1060,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DemoMain" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DemoMain (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DemoMain (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DemoMain (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DemoMain (4)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ThreadLocalMain" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SignalMain" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MyWaitNotifyMain" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LockMain" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DemoMain (4)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DemoMain (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DemoMain (3)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DemoMain (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DemoMain" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LockMain" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MyWaitNotifyMain" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SignalMain" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ThreadLocalMain" />
       </list>
     </recent_temporary>
   </component>
@@ -1022,11 +1092,31 @@
       <workItem from="1492091508803" duration="17727000" />
       <workItem from="1492335961959" duration="2962000" />
       <workItem from="1492400272373" duration="43000" />
+      <workItem from="1492407763869" duration="881000" />
+      <workItem from="1492479331290" duration="534000" />
+      <workItem from="1492481194528" duration="7000" />
+      <workItem from="1492482786689" duration="26953000" />
+      <workItem from="1492765163006" duration="16912000" />
+      <workItem from="1493044788803" duration="6697000" />
+      <workItem from="1493255901758" duration="106000" />
+      <workItem from="1493279829503" duration="117000" />
+      <workItem from="1493282382644" duration="117000" />
+      <workItem from="1493283352077" duration="165000" />
+      <workItem from="1493305286541" duration="3001000" />
+      <workItem from="1493357680530" duration="1096000" />
+      <workItem from="1493775264334" duration="336000" />
+      <workItem from="1493779229780" duration="155000" />
+      <workItem from="1493779522261" duration="119000" />
+      <workItem from="1493781221226" duration="26000" />
+      <workItem from="1493791911277" duration="58000" />
+      <workItem from="1493793076340" duration="109000" />
+      <workItem from="1493864061615" duration="434000" />
+      <workItem from="1493866755738" duration="1566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66194000" />
+    <option name="totallyTimeSpent" value="125583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="840" extended-state="6" />
@@ -1035,64 +1125,33 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6684492" sideWeight="0.49361023" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11802575" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19652407" sideWeight="0.4899857" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3542781" sideWeight="0.4899857" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2540107" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44919786" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23390558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2539342" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39973262" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39896372" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6697861" sideWeight="0.49361023" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11802575" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39973262" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6697861" sideWeight="0.49361023" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19652407" sideWeight="0.4899857" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2540107" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26108727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -1101,7 +1160,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/executor/AbstractExecutorMain.java</url>
+          <line>47</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1109,372 +1177,353 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/proxy/ProxyVPN.java">
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/excuter/ExecutorMain.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/CyclicBarrier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="276" column="60" lean-forward="false" selection-start-line="276" selection-start-column="47" selection-end-line="276" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/proxy/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/TLWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/PMWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/CEOWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/chain/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/Stock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/SellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/BuyStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/command/Broker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="107" column="18" lean-forward="true" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/iterator/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/iterator/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/iterator/FruitList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/iterator/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/memento/CareTaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/memento/Originator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="20" column="51" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/memento/Memento.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/memento/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/observer/Tomcat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/observer/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/state/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/state/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/state/StartState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/state/StopState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/state/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/strategy/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/strategy/Sign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/strategy/RSASign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/strategy/RSA2Sign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/strategy/MD5Sign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/strategy/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="1" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="617" column="30" lean-forward="false" selection-start-line="617" selection-start-column="30" selection-end-line="617" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/function/BiConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-304">
-          <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/template/TomSchedule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/template/Schedule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/abstractfactory/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore.orig" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="285">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/pom.xml">
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/excuter/SerialExecutor.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="178">
+          <caret line="197" column="35" lean-forward="false" selection-start-line="197" selection-start-column="30" selection-end-line="197" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/facade/DemoMain.java">
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/racecondition/Counter.java" />
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/excuter/Main.java" />
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/excuter/BarrierTest.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeoutException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        <state relative-caret-position="570">
+          <caret line="64" column="13" lean-forward="false" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/template/DemoMain.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="190">
+          <caret line="161" column="60" lean-forward="false" selection-start-line="161" selection-start-column="60" selection-end-line="161" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/Home.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/RecursiveAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="164" column="37" lean-forward="false" selection-start-line="164" selection-start-column="22" selection-end-line="164" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/TomHome.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/PriorityBlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="108" column="13" lean-forward="false" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadLocalRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="81" column="45" lean-forward="false" selection-start-line="81" selection-start-column="39" selection-end-line="81" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="122" column="28" lean-forward="true" selection-start-line="122" selection-start-column="28" selection-end-line="122" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/TransferQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="67" column="55" lean-forward="false" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/racecondition/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="48" column="51" lean-forward="false" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="74" column="15" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="136" column="32" lean-forward="false" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="63" column="34" lean-forward="true" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="169" column="48" lean-forward="false" selection-start-line="169" selection-start-column="48" selection-end-line="169" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="49" column="28" lean-forward="false" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/Exchanger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="104" column="13" lean-forward="false" selection-start-line="104" selection-start-column="13" selection-end-line="104" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutionException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="150" column="11" lean-forward="false" selection-start-line="150" selection-start-column="11" selection-end-line="150" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="114" column="22" lean-forward="false" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="80" column="52" lean-forward="false" selection-start-line="80" selection-start-column="52" selection-end-line="80" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="67" column="28" lean-forward="false" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="611" column="23" lean-forward="false" selection-start-line="611" selection-start-column="17" selection-end-line="611" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/executor/ExecutorServiceMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/executor/AbstractExecutorMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="73" lean-forward="false" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
           <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/Visitor.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3363">
+          <caret line="218" column="5" lean-forward="false" selection-start-line="218" selection-start-column="5" selection-end-line="218" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/util/concurrent/SynchronousQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15257">
+          <caret line="853" column="11" lean-forward="false" selection-start-line="853" selection-start-column="11" selection-end-line="853" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2698">
+          <caret line="181" column="24" lean-forward="false" selection-start-line="181" selection-start-column="24" selection-end-line="181" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5187">
+          <caret line="315" column="9" lean-forward="true" selection-start-line="315" selection-start-column="9" selection-end-line="315" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/threadlocal/ThreadLocalMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="e#673#674#0" expanded="false" />
+            <element signature="e#734#735#0" expanded="false" />
+            <element signature="e#836#837#0" expanded="false" />
+            <element signature="e#897#898#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-855">
+          <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="3022" column="15" lean-forward="false" selection-start-line="3022" selection-start-column="15" selection-end-line="3022" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MyWaitNotifyMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/executor/SchduledExecutorMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1054#1055#0" expanded="false" />
+            <element signature="e#1111#1112#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/SignalMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="46" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MyWaitNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MonitorObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/KiteVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/viashare/visitor/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/signaling/MySignal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/lock/LockMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding>
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/lock/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency/src/main/java/com/viashare/lock/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
       </provider>
