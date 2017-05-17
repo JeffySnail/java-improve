@@ -5,5 +5,5 @@ package com.viashare.abstractfactory;
  */
 public interface Tyre {
 
-    public void getFactor();
+    void getFactor();
 }

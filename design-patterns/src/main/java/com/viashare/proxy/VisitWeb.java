@@ -5,5 +5,5 @@ package com.viashare.proxy;
  */
 public interface VisitWeb {
 
-    public void visit();
+    void visit();
 }

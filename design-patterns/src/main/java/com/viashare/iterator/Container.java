@@ -5,5 +5,5 @@ package com.viashare.iterator;
  */
 public interface Container<E> {
 
-    public Iterator getIterator();
+    Iterator getIterator();
 }

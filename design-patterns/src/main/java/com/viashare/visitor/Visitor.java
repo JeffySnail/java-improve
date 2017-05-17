@@ -5,5 +5,5 @@ package com.viashare.visitor;
  */
 public interface Visitor {
 
-    public void visit(Home home);
+    void visit(Home home);
 }

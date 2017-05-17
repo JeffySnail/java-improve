@@ -5,8 +5,8 @@ package com.viashare.visitor;
  */
 public interface Home {
 
-    public void openTV();
+    void openTV();
 
-    public void accept(Visitor visitor);
+    void accept(Visitor visitor);
 
 }

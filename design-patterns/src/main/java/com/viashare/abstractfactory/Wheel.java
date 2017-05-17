@@ -5,5 +5,5 @@ package com.viashare.abstractfactory;
  */
 public interface Wheel {
 
-    public void getSize();
+    void getSize();
 }

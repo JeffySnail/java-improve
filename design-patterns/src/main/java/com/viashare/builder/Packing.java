@@ -5,5 +5,5 @@ package com.viashare.builder;
  */
 public interface Packing {
 
-    public String pack();
+    String pack();
 }

@@ -5,5 +5,5 @@ package com.viashare.command;
  */
 public interface Order {
 
-    public void execute();
+    void execute();
 }

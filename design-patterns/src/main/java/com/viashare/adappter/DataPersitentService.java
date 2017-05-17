@@ -5,5 +5,5 @@ package com.viashare.adappter;
  */
 public interface DataPersitentService {
 
-    public int put(Object value);
+    int put(Object value);
 }

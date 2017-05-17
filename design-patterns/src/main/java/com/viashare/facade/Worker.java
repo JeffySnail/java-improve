@@ -5,5 +5,5 @@ package com.viashare.facade;
  */
 public interface Worker {
 
-    public void work();
+    void work();
 }

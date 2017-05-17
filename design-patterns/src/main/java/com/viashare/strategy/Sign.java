@@ -5,5 +5,5 @@ package com.viashare.strategy;
  */
 public interface  Sign {
 
-    public String sign(String str);
+    String sign(String str);
 }

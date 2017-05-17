@@ -11,6 +11,10 @@
         <module>java-concurrency</module>
         <module>design-patterns</module>
         <module>java-concurrent</module>
+        <module>java8-date</module>
+        <module>java-io</module>
+        <module>java-classloader</module>
+        <module>java-json</module>
     </modules>
     <packaging>pom</packaging>
 

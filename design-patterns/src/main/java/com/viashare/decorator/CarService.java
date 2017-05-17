@@ -5,5 +5,5 @@ package com.viashare.decorator;
  */
 public interface CarService {
 
-    public void run();
+    void run();
 }

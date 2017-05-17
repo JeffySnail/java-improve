@@ -7,15 +7,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="design-patterns" />
+        <module name="java-classloader" />
         <module name="java-concurrency" />
         <module name="java-concurrent" />
+        <module name="java-io" />
+        <module name="java-json" />
+        <module name="java8-date" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="design-patterns" target="1.5" />
+      <module name="java-classloader" target="1.5" />
       <module name="java-concurrency" target="1.8" />
       <module name="java-concurrent" target="1.8" />
       <module name="java-improve" target="1.5" />
+      <module name="java-io" target="1.5" />
+      <module name="java-json" target="1.5" />
+      <module name="java8-date" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

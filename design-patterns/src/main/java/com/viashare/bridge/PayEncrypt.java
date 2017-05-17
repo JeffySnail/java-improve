@@ -5,5 +5,5 @@ package com.viashare.bridge;
  */
 public interface PayEncrypt {
 
-    public String  sign();
+    String  sign();
 }

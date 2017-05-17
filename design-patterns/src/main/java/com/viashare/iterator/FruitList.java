@@ -16,10 +16,7 @@ public class FruitList<E extends Container> implements Container {
         int index;
 
         public boolean hasNext() {
-            if(index < names.length){
-                return true;
-            }
-            return false;
+            return index < names.length;
         }
 
         public Object next() {

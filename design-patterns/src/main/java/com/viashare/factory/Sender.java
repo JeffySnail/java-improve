@@ -5,5 +5,5 @@ package com.viashare.factory;
  */
 public interface Sender {
 
-    public void send();
+    void send();
 }

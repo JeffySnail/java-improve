@@ -5,7 +5,7 @@ package com.viashare.iterator;
  */
 public interface Iterator<E> {
 
-    public boolean hasNext();
+    boolean hasNext();
 
-    public E next();
+    E next();
 }
